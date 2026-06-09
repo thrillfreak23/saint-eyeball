@@ -1,1 +1,6 @@
-#include <stdio.h>\n\nint main() {\n    printf("Hello, Eyeball!\n");\n    return 0;\n}
+#include <stdio.h>
+
+int main() {
+   printf("Hello, Saint Eyeball!\n");
+   return 0;
+}
